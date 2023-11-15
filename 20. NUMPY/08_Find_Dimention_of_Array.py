@@ -1,3 +1,5 @@
+# CREATE ARRAY AND PRINT IT AS WELL AS FIND DIMENSION OF THOSE ARRAY.
+
 import numpy as np
 arr = np.array([6])
 print(arr)
